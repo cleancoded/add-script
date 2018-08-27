@@ -1,10 +1,10 @@
 <?php
 /**
 * Plugin Name: CLEANCODED Add Script
-* Plugin URI: https://CLEANCODED.com/
+* Plugin URI: https://github.com/cleancoded/add-script
 * Version: 1.0
 * Author: CLEANCODED
-* Author URI: https://CLEANCODED.com/
+* Author URI: https://CLEANCODED.com
 * Description: Add extra code or scripts to the header and footer of your WordPress website by hooking into wp_head and wp_footer.
 * License: GPL2
 */
