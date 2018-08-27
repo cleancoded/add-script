@@ -33,26 +33,22 @@ This plugin provides a simple dashboard from the WordPress backend dashboard to 
 2. Activate Add Headers and Footers through the `Plugins` menu in WordPress.
 3. Add code to your header or footer by going to the `Settings > Add Headers and Footers` menu.
 
-== Screenshots ==
-
-1. Settings Screen
-
 == Frequently Asked Questions ==
 
-= Can I use Add Headers and Footers to install Google Analytics? =
+= Can I use Add Script to install Google Analytics? =
 
 Yes, you can Add your Google Analytics code in the `Scripts in Header` field.
 
-= Can I use Add Headers and Footers for Google AdSense? =
+= Can I use Add Script for Google AdSense? =
 
 Yes, to verify your account or to tag your page for Auto ads, paste the code AdSense gives you, into the Scripts in Header field.
 
-= How to disable Add Headers and Footers on a specific page? =
+= How to disable Add Script on a specific page? =
 
 You can use one of the three available boolean filters: disable_ihaf, disable_ihaf_footer, disable_ihaf_header and return true value in order to disable printing either on the entire page or specifically in the header or footer of a given page.
 
 == Notes ==
-Add Headers and Footers is the easiest way to Add code in your WordPress headers and footers.
+The Add Script plugin is a simple way to add scripts and code to your WordPress website header and footer.
 
 CLEANCODED
 
