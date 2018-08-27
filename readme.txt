@@ -20,8 +20,7 @@ This plugin provides a simple interface from the WordPress backend dashboard to 
 = Plugin Features =
 
 * Easy to set up in just a few minutes
-* Add code and scripts to your WordPress website
-* Add header code and/or footer code
+* Add new scripts and code to the header and footer of your WordPress website
 * Add <strong>Facebook pixel</strong> code to any theme
 * Add <strong>Google Analytics</strong> code to any theme
 * Add <strong>custom CSS</strong> to any theme
